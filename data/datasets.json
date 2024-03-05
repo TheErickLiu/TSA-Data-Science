@@ -1,0 +1,44 @@
+{
+    "GOOGL": {
+        "date_file_path": "scrubbedDataReddit/scrubbedAlphabet.txt",
+        "sentiment_file_path": "ratedDataReddit/AlphabetPredictions.txt",
+        "price_file_path": "stockData/GOOGL.csv",
+        "outfilename": "combinedData/AlphabetCombined.txt"
+    },
+    "AAPL": {
+        "date_file_path": "scrubbedDataReddit/scrubbedApple.txt",
+        "sentiment_file_path": "ratedDataReddit/ApplePredictions.txt",
+        "price_file_path": "stockData/AAPL.csv",
+        "outfilename": "combinedData/AppleCombined.txt"
+    },
+    "AMZN": {
+        "date_file_path": "scrubbedDataReddit/scrubbedAmazon.txt",
+        "sentiment_file_path": "ratedDataReddit/AmazonPredictions.txt",
+        "price_file_path": "stockData/AMZN.csv",
+        "outfilename": "combinedData/AmazonCombined.txt"
+    },
+    "META": {
+        "date_file_path": "scrubbedDataReddit/scrubbedMeta.txt",
+        "sentiment_file_path": "ratedDataReddit/MetaPredictions.txt",
+        "price_file_path": "stockData/META.csv",
+        "outfilename": "combinedData/MetaCombined.txt"
+    },
+    "MSFT": {
+        "date_file_path": "scrubbedDataReddit/scrubbedMicrosoft.txt",
+        "sentiment_file_path": "ratedDataReddit/MicrosoftPredictions.txt",
+        "price_file_path": "stockData/MSFT.csv",
+        "outfilename": "combinedData/MicrosoftCombined.txt"
+    },
+    "NVDA": {
+        "date_file_path": "scrubbedDataReddit/scrubbedNvidia.txt",
+        "sentiment_file_path": "ratedDataReddit/NvidiaPredictions.txt",
+        "price_file_path": "stockData/NVDA.csv",
+        "outfilename": "combinedData/NvidiaCombined.txt"
+    },
+    "TSLA": {
+        "date_file_path": "scrubbedDataReddit/scrubbedTesla.txt",
+        "sentiment_file_path": "ratedDataReddit/TeslaPredictions.txt",
+        "price_file_path": "stockData/TSLA.csv",
+        "outfilename": "combinedData/TeslaCombined.txt"
+    }
+}
