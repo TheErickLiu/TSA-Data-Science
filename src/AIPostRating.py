@@ -1,7 +1,7 @@
 import requests
 from collections import Counter
 
-url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyATh_wh0RdN-OduLRcBNxqkHVkXm0nOBk0"
+url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=imagineKeyHere"
 headers = {
     'Content-Type': 'application/json',
 }
